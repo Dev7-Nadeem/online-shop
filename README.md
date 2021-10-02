@@ -6,13 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is just a sample code for online shopping web app using redux for state management and redux thunk as middleware for api calls.
 
-In this project I am using a fake API end point "https://fakestoreapi.com/docs".
+I am using a fake API end point "https://fakestoreapi.com/docs".
 
 ## Project Setup
 
 Clone repository to your local drive. Install packages using "npm intall".
 
 then start the project using "npm start"
+
+You'll be redirected to login page, use following credentials to login.
+username: "mor_2314",
+password: "83r5^_"
 
 
 ## Available Scripts
